@@ -1,0 +1,12 @@
+.AlgoButtonWrapper {
+    color: white;
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 0.5rem 0 0.5rem 0;
+}
+
+.AlgoButtonWrapper:hover {
+    font-style: italic;
+    cursor: pointer;
+}
